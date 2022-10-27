@@ -1,1 +1,1 @@
-# Dog-gallery-master
+# Dog-gallery
